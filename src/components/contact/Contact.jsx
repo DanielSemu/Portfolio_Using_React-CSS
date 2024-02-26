@@ -26,6 +26,7 @@ return (
             <textarea name="" id="" cols="30" rows="10" className="contact_form_input contact_form_area"
             placeholder='Insert your Message'></textarea>
             </div>
+            
             <button className="btn">Send Message</button>
         </form>
       </div>

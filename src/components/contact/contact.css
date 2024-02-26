@@ -42,7 +42,9 @@
 .contact_form_area textarea{
   resize: none;
 }
-
+button{
+  margin-top: 7rem;
+}
 
 
 
